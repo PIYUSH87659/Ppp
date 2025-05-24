@@ -36,7 +36,7 @@ app.get('/', (req, res) => {
                 .header {
                     display: flex;
                     justify-content: flex-end;
-                    padding: 10px;
+                    padding: 0;
                     background-color: #ff69b4;
                 }
                 .header button {
@@ -147,7 +147,7 @@ app.get('/', (req, res) => {
                 </form>
             </div>
             <footer>
-                <p>Designed by <a href="#">BLACK DEVIL ðŸ–¤</a> | Dragon on fire ðŸ�‰ðŸ©·</p>
+                <p>Designed by <a href="#">BLACK DEVIL  | Dragon on fire ðŸ�‰ðŸ©·</p>
             </footer>
         </body>
         </html>
